@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm nessern 👋  
 
-<!--
-**nessern/nessern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **cybersecurity student** passionate about **cybersecurity, web development, and analytics**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me  
+- 🌱 Currently learning **C programming, Agile project management, IoT/OT, and GRC**  
+- 💻 Experience with **web development projects** (HTML, CSS, JS) and **digital platforms**  
+- 🔭 Interests include **problem-solving, strategy, logistics, and technology**  
+
+---
+
+## Tech & Tools  
+- **Languages:** Python, JavaScript, C, SQL, Bash  
+- **Web Dev:** HTML, CSS, PHP, React, Node.js  
+- **Cybersecurity Tools:** Wireshark, Kali Linux, Metasploit, ClamAV, Yara  
+- **Analytics:** Tableau, Power BI, MySQL  
+- **Other Tools:** VMware, VSC, IntelliJ, PhpMyAdmin, Git, Azure  
+
+---
