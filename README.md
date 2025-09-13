@@ -1,13 +1,14 @@
-## Hi, I'm nessern 👋  
+## Hi, I'm nessern! 
 
 A **cybersecurity student** passionate about **cybersecurity, web development, and analytics**.  
 
 ---
 
 ## About Me  
-- 🌱 Currently learning **C programming, Agile project management, IoT/OT, and GRC**  
-- 💻 Experience with **web development projects** (HTML, CSS, JS) and **digital platforms**  
-- 🔭 Interests include **problem-solving, strategy, logistics, and technology**  
+- 💻 I enjoy developing **websites**, building **hobby projects**, and competing in **CTFs**  
+- 🔐 Interested in **Governance, Risk & Compliance (GRC)** and **Data Structures & Algorithms**  
+- 🧩 Passionate about solving problems, exploring **cybersecurity challenges**, and learning new tech  
+- 💡 Curious and working to sharpen both my **technical** and **strategic** skills
 
 ---
 
@@ -19,3 +20,7 @@ A **cybersecurity student** passionate about **cybersecurity, web development, a
 - **Other Tools:** VMware, VSC, IntelliJ, PhpMyAdmin, Git, Azure  
 
 ---
+
+> ⚡ Disclaimer: Here you’ll find a mix of **cybersecurity-related projects** and **web development experiments**.
+
+> 🪪 Note: **“nessern” is my online name**, not my real one.  
