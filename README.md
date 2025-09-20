@@ -1,6 +1,8 @@
 ## Hi, I'm nessern! 
 
-A **cybersecurity student** passionate about **cybersecurity, web development, and analytics**.  
+A **cybersecurity student** passionate about **cybersecurity, web development, and analytics**.
+I'm not going to lie: I'm very new to posting on Github and using the platform for other purposes than educational. 
+I'm currently learning how to do so correctly, and I'm working on getting my projects up here.
 
 ---
 
